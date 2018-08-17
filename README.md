@@ -20,13 +20,13 @@ application/json
 Install Http Server 
 
 ```
-npm install http-server
+npm install http-server -g
 ```
 
 Install JSON Server 
 
 ```
-npm install g json-server
+npm install -g json-server
 ```
 
 Run Http Server  
