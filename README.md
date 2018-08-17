@@ -15,7 +15,7 @@ application/json
 
 # Installation
 
-install nodejs
+-Install nodejs
 
 Install Http Server 
 
@@ -41,7 +41,7 @@ Run JSON Server
 json-server --watch clinics.json
 ```
 
-- For running web api fake, Note: browsering to folder 'data' from project -
+- For running web api fake, Note: browsering to folder 'data' from project
 
 
 # Structure project
