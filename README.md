@@ -17,31 +17,31 @@ application/json
 
 - Install nodejs
 
-Install Http Server 
+- Install Http Server 
 
 ```
 npm install http-server -g
 ```
 
-Install JSON Server 
+- Install JSON Server 
 
 ```
 npm install -g json-server
 ```
 
-Run Http Server  
+- Run Http Server  
 
 ```
 http-server . -o
 ```
 
-Run JSON Server 
+- Run JSON Server 
 
 ```
 json-server --watch clinics.json
 ```
 
-- For running web api fake, Note: browsering to folder 'data' from project
+For running web api fake, Note: browsering to folder 'data' from project
 
 
 # Structure project
