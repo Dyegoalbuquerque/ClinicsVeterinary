@@ -15,7 +15,7 @@ application/json
 
 # Installation
 
--Install nodejs
+- Install nodejs
 
 Install Http Server 
 
