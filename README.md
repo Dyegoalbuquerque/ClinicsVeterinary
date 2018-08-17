@@ -17,10 +17,31 @@ application/json
 
 install nodejs
 
-run 'npm install http-server' - The server application -
-run 'npm install -g json-server' - The web api fake for getting datas -
-run 'http-server . -o' - For running server application -
-run 'json-server --watch clinics.json'  - For running web api fake, Note: browsering to folder 'data' from project -
+Install Http Server 
+
+```
+npm install http-server
+```
+
+Install JSON Server 
+
+```
+npm install g json-server
+```
+
+Run Http Server  
+
+```
+http-server . -o
+```
+
+Run JSON Server 
+
+```
+json-server --watch clinics.json
+```
+
+- For running web api fake, Note: browsering to folder 'data' from project -
 
 
 # Structure project
