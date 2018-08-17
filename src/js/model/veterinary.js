@@ -1,0 +1,1 @@
+var Veterinary = Backbone.Model.extend({});

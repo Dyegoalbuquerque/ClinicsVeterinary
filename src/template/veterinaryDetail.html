@@ -1,0 +1,14 @@
+  <% _.each(item, function (i) { %>
+    <div class="card" >
+  		<img class="card-img-top" src="<%= i.get('url') %>" height="250" width="450" alt="Card image cap">
+  		<div class="card-body">
+    		<h1 class="card-title"><%= i.get('name') %></h1>
+    		<p class="card-text"><%= i.get('neighborhood') %></p>
+    		<h3>Avaliation CRMV&nbsp;<span class="badge badge-warning"><%= i.get('avaliation') %></span></h3>
+  		</div>
+	</div>
+  <% }); %>
+
+  <br/>
+
+  <a href="#veterinary" class="btn btn-light">Back</button>

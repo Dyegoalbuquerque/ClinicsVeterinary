@@ -1,0 +1,144 @@
+{
+  "veterinary":
+  [
+    {
+      "name": "Clínica Veterinária Animagem",
+      "neighborhood": "Farias brito",
+      "avaliation": 7,
+      "id": 1,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Centro Veterinário Animal & Cia",
+      "neighborhood": "Aldeota",
+      "avaliation": 8,
+      "id": 2,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica veterinária",
+      "neighborhood": "Praia de iracema",
+      "avaliation": 6,
+      "id": 3,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Amigo Animal",
+      "neighborhood": "6 bocas",
+      "avaliation": 7,
+      "id": 4,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Zoovet",
+      "neighborhood": "Barra do ceará",
+      "avaliation": 8,
+      "id": 5,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Vetlife Montese Clínica Veterinária 24 Horas",
+      "neighborhood": "Monte castelo",
+      "avaliation": 8,
+      "id": 6,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária Amigo Meu",
+      "neighborhood": "Parquelândia",
+      "avaliation": 6,
+      "id": 7,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária São José",
+      "neighborhood": "Aldeota",
+      "avaliation": 9,
+      "id": 8,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária - Dog Vet",
+      "neighborhood": "Meireles",
+      "avaliation": 5,
+      "id": 9,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária Vetmed",
+      "neighborhood": "Papicu",
+      "avaliation": 8,
+      "id": 10,
+      "url": "assets/img/image-pet.jpg"
+    },
+     {
+      "name": "Milldogs Veterinária",
+      "neighborhood": "Edson queiroz",
+      "avaliation": 7,
+      "id": 11
+    },
+    {
+      "name": "Clínica Veterinária Monsenhor Bruno",
+      "neighborhood": "Papicu",
+      "avaliation": 9,
+      "id": 12,
+      "url": "assets/img/image-pet.jpg"
+    },
+     {
+      "name": "Consultório Veterinário Dr.Ilson Paiva",
+      "url": "Sabiaguaba",
+      "avaliation": 10,
+      "id": 13,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária São Francisco",
+      "neighborhood": "Cidade 2000",
+      "avaliation": 6,
+      "id": 14,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária Etave",
+      "neighborhood": "Montese",
+      "avaliation": 6,
+      "id": 15,
+      "url": "assets/img/image-pet.jpg"
+    },
+     {
+      "name": "Policlínica Veterinária de Fortaleza",
+      "neighborhood": "Meireles",
+      "avaliation": 5,
+      "id": 16,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Medicão Clínica Veterinária",
+      "neighborhood": "Centro",
+      "avaliation": 7,
+      "id": 17,
+      "url": "assets/img/image-pet.jpg"
+    },
+     {
+      "name": "Hospital Veterinário",
+      "neighborhood": "Montese",
+      "avaliation": 6,
+      "id": 18,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Veterinária CURAPET Montese",
+      "neighborhood": "Passaré",
+      "avaliation": 9,
+      "id": 19,
+      "url": "assets/img/image-pet.jpg"
+    },
+    {
+      "name": "Clínica Pet Dr Eduardo",
+      "neighborhood": "Barra do ceará",
+      "avaliation": 10,
+      "id": 20,
+      "url": "assets/img/image-pet.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+
+<div class="row col-md-3 float-right">
+  <input class="form-control" id="inputSearch" onkeyup="searchOnTable('tableVeterinary','inputSearch')" placeholder="Search for name..." aria-label="Small" type="text" aria-describedby="inputGroup-sizing-sm">
+</div>
+<br/><br/>
+<table class="table table-striped header-fixed" id="tableVeterinary">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Neighborhood</th>
+      <th>Avaliation CRMV</th>
+      <th class="text-center">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% _.each(itens, function (item) { %>
+    <tr>
+      <td><%= item.get('id') %></td>
+      <td><%= item.get('name')  %></td>
+      <td><%= item.get('neighborhood')  %></td>
+      <td><%= item.get('avaliation')  %></td>
+      <td class="text-center">
+        <a href="#veterinary/<%= item.get('id') %>" class="btn btn-info btn-sm" aria-disabled="true">detail</a>
+      </td>
+    </tr>
+    <% }); %>
+  </tbody>
+</table>
